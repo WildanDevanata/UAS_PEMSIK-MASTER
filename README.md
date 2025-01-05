@@ -23,8 +23,7 @@ Untuk menjalankan proyek ini, Anda perlu menyiapkan backend dan frontend. Pastik
    ```bash
    cd be
    ```
-
-2. **Jalankan Server Backend:**
+3. **Jalankan Server Backend:**
    ```bash
    go run main.go
    ```
@@ -37,8 +36,11 @@ Untuk menjalankan proyek ini, Anda perlu menyiapkan backend dan frontend. Pastik
    ```bash
    cd fe
    ```
-
-2. **Jalankan Server Pengembangan Frontend:**
+2. **install npm di Direktori Frontend:**
+   ```bash
+   npm install
+   ```
+3. **Jalankan Server Pengembangan Frontend:**
    ```bash
    npm run dev
    ```
